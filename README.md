@@ -1,2 +1,2 @@
 # Radicle CI Integrations test
-kanw allages
+kanw allages ston laki
